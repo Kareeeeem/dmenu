@@ -2,7 +2,7 @@
 VERSION = 4.7
 
 # paths
-PREFIX = /usr/local
+PREFIX = /home/kareem/.local
 MANPREFIX = ${PREFIX}/share/man
 
 X11INC = /usr/X11R6/include
